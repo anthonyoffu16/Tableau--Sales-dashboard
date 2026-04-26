@@ -25,7 +25,7 @@ Bar chart showing highest-performing sub-categories by sales
 
 Map visualising sales volume across different states
 
-3)Interactive Dashboard
+3) Interactive Dashboard
 
 i) Selecting a sub-category dynamically updates the map
 
